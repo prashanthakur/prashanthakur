@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prashan82520974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashan82520974" height="50" width="40" /></a>
-<a href="https://linkedin.com/in/prashant-singh-5a71201a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-singh-5a71201a1" height="40" width="40" /></a>
+<a href="https://twitter.com/prashan82520974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashan82520974" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashant-singh-5a71201a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-singh-5a71201a1" height="30" width="40" /></a>
 <a href="https://fb.com/prashant singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashant singh" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_prashant1844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_prashant1844" height="30" width="40" /></a>
 </p>
