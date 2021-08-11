@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/prashan82520974" target="blank"><img src="https://img.shields.io/twitter/follow/prashan82520974?logo=twitter&style=for-the-badge" alt="prashan82520974" /></a> </p>
 
-- 🔭 I’m currently working on **Zomato like web app**
+- 🔭 I’m currently working on **Food Ordering and E-Learning web application**
 
-- 🌱 I’m currently learning **Mern stack development**
+- 🌱 Tech Stack **Mern stack development**
 
 - 💬 Ask me about **React, Javascript**
 
