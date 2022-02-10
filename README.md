@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **thakurprince9910@gmail.com**
+- 📫 How to reach me **prashantsingh991036@gmail.com**
 ![](https://activity-graph.herokuapp.com/graph?username=prashanthakur&theme=react-dark&area=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
