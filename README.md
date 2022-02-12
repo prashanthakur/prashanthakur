@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthakur&show_icons=true&locale=en&layout=compact" alt="prashanthakur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthakur&show_icons=true&locale=en" alt="prashanthakur" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=prashanthakur&show_icons=true&locale=en" alt="prashanthakur" /></p>
