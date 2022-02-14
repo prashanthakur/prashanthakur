@@ -1,7 +1,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthakur" /> </p>
-<p align="left"><img src="https://i.ibb.co/BKNQJmz/image-search-1644616904785.png" height="50" width="50" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthakur" alt="prashanthakur" /></a> </p>
 
